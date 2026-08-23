@@ -22,7 +22,7 @@
 <ul>
   <li>Cool video people thingies:
     <ul>
-      <li>Sebastion Lague: <a href="https://www.youtube.com/@SebastianLague/videos" target="_blank">Coding Adventures</a></li>
+      <li>Sebastian Lague: <a href="https://www.youtube.com/@SebastianLague/videos" target="_blank">Coding Adventures</a></li>
       <li>CodeAesthetic: <a href="https://www.youtube.com/@CodeAesthetic/videos" target="_blank">Any standard to low?</a></li>
       <li>Logan Smith: <a href="https://www.youtube.com/@_noisecode/videos" target="_blank">Scawy language...</a></li>
       <li>Acerola: <a href="https://www.youtube.com/@Acerola_t/videos" target="_blank">But Acerola!</a></li>
