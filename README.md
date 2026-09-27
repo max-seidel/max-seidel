@@ -39,7 +39,7 @@
   <li>Paper rectangle thingies:
     <ul>
       <li>Eliezer Yudkowsky: <a href="https://www.google.com/search?q=if+anyone+builds+it%2C+everyone+dies&uact=5&oq=if+anyone+builds+it%2C+everyone+dies" target="_blank">If Anyone Builds It, Everyone Dies</a></li>
-      <li>Adam Aleksic: <a href="https://www.google.com/search?q=algospeak&gs_ssp=eJzj4tVP1zc0LM9IN022MEszYPTiTMxJzy8uSE3MBgBnEwgs&oq=algos" target="_blank">Algospeak</a></li>
+      <!--<li>Adam Aleksic: <a href="https://www.google.com/search?q=algospeak&gs_ssp=eJzj4tVP1zc0LM9IN022MEszYPTiTMxJzy8uSE3MBgBnEwgs&oq=algos" target="_blank">Algospeak</a></li>-->
     </ul>
   </li>
 </ul>
