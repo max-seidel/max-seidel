@@ -14,7 +14,7 @@
 <br>-->
 
 <h1 align="center">Hello 👋, I'm Max Seidel</h1>
-<p>I'm currently <strong>studying</strong> full time in <srong>Germany</strong>, with the ambition of one day "making" games for a living.</p>
+<p>I'm currently <strong>studying</strong> full time in <strong>Germany</strong>, with the ambition of one day "making" games for a living.</p>
 <a href="https://max-seidel.dev/"><img width="675" height="48" alt="visit_my_website_banner" src="https://github.com/user-attachments/assets/823c9346-d1ff-40c3-96aa-671c672920d4" /></a>
 <a href="https://www.hs-kempten.de/informatik/bachelor/game-engineering" target="_blank"><img width="675" height="48" alt="studying_in_kempten_banner" src="https://github.com/user-attachments/assets/8cd4f6ee-7d8f-465e-b6d2-8d8197ba8a9b" /></a>
 
