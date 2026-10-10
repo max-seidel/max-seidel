@@ -15,8 +15,10 @@
 
 <h1 align="center">Hello 👋, I'm Max Seidel</h1>
 <p>I'm currently <strong>studying</strong> full time in <strong>Germany</strong>, with the ambition of one day "making" games for a living.</p>
-<a href="https://max-seidel.dev/"><img width="1700" height="120" alt="website-panel" src="https://github.com/user-attachments/assets/ac854b17-82c9-4f59-bbd5-2780eec29d0e" /></a>
-<a href="https://www.hs-kempten.de/informatik/bachelor/game-engineering" target="_blank"><img width="1700" height="120" alt="game-engineering-panel" src="https://github.com/user-attachments/assets/e2527e28-1065-4148-ad83-c76bfbe9b07d" /></a>
+<a href="https://max-seidel.dev/"><img width="1700" height="120" alt="website-panel" src="https://github.com/user-attachments/assets/b61a4973-4b2a-43dc-9a9d-62346ecf68f1" />
+</a>
+<a href="https://www.hs-kempten.de/informatik/bachelor/game-engineering" target="_blank"><img width="1700" height="120" alt="game-engineering-panel" src="https://github.com/user-attachments/assets/0e7c765f-a033-4b93-a819-14543f1ea675" />
+</a>
 
 <h2><img width="18" height="18" alt="bookmark_chalk" src="https://github.com/user-attachments/assets/e2d17190-dcc8-4259-9e2f-7c326e37ac4e" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thingies I like:</h2>
 <ul>
@@ -44,7 +46,8 @@
   </li>
 </ul>
 
-<a href="https://max-seidel.dev/contact/"><img width="1700" height="120" alt="contact-panel" src="https://github.com/user-attachments/assets/8ed02e1d-5714-49b5-81d4-7e1ca38102e6" /></a>
+<a href="https://max-seidel.dev/contact/"><img width="1700" height="120" alt="contact-panel" src="https://github.com/user-attachments/assets/eef7724c-2a2c-4bdc-8a0f-e2e233f0ad85" />
+</a>
 
 <h2><img width="18" height="18" alt="star_chalk" src="https://github.com/user-attachments/assets/8849de75-2e84-4dc8-b900-c88bfa1d8a05" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The thingies I do:</h2>
 <table border:"#0000">
