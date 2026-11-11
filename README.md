@@ -33,7 +33,7 @@
   </li>
   <li>Cool open source thingies:
     <ul>
-      <li><a href="https://godotengine.org/" target="_blank">Godot</a>: 🔥 <a href="https://godotengine.github.io/" target="_blank">Contribute</a>&nbsp;&nbsp; ♥️ <a href="https://fund.godotengine.org/" target="_blank">Donate</a></li>
+      <li><a href="https://godotengine.org/" target="_blank">Godot</a>: 🔥 <a href="https://github.com/godotengine" target="_blank">Contribute</a>&nbsp;&nbsp; ♥️ <a href="https://fund.godotengine.org/" target="_blank">Donate</a></li>
       <li><a href="https://www.blender.org/" target="_blank">Blender</a>: 🔥 <a href="https://projects.blender.org/blender/blender.git" target="_blank">Contribute</a>&nbsp;&nbsp; ♥️ <a href="https://fund.blender.org/" target="_blank">Donate</a></li>
       <li><a href="https://www.gimp.org/" target="_blank">GIMP</a>: 🔥 <a href="https://gitlab.gnome.org/GNOME/gimp" target="_blank">Contribute</a>&nbsp;&nbsp; ♥️ <a href="https://www.gimp.org/donating/" target="_blank">Donate</a></li>
     </ul>
