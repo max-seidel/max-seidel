@@ -54,7 +54,7 @@
   <tr>
     <td>
       <div style="text-align: left;">
-<p><img align="center" src="https://github-readme-stats-cyklon3000s-projects.vercel.app/api/top-langs/?username=Cyklon3000&size_weight=0.1&count_weight=0.88&hide=ShaderLab,SCSS,Mathematica,GDShader,Makefile,CMake,Roff,Batchfile,Wolfram%20Language,C&layout=donut-vertical&langs_count=10&theme=github_dark" alt="cyklon3000" /></p>
+<p><img align="center" src="https://github-readme-stats-cyklon3000s-projects.vercel.app/api/top-langs/?username=max-seidel&size_weight=0.1&count_weight=0.88&hide=ShaderLab,SCSS,Mathematica,GDShader,Makefile,CMake,Roff,Batchfile,Wolfram%20Language,C&layout=donut-vertical&langs_count=10&theme=github_dark" alt="cyklon3000" /></p>
     </td>
     <td>
   <a href="https://unity.com" title="Unity"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="Unity" style="width: 48px; height: 48px; margin: 0.5rem;" /></a>
